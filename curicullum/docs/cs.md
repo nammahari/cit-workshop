@@ -1,4 +1,5 @@
-# B.Tech IT
-## 1st year
-### 1st sem
--professional
+# B TECH CSE
+## FIRST YEAR
+### SEMESTER 1
+
+* PRO LINKED KIST BY MIHIRA
