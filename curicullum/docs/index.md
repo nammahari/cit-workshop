@@ -1,7 +1,11 @@
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-[mkdocs.org](cs.md)
+[CS](cs.md)
+[Mech](Mech.md)
+[Cyber](cyber.md)
+
+
 
 ## Commands
 
