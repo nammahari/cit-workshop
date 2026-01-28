@@ -1,6 +1,6 @@
-#B.Tech.AIDS
-##CURRICULUM
-*HS3251 Professional English - II HSMC 3 1 0 4 4
+# B.Tech.AIDS
+## CURRICULUM
+* HS3251 Professional English - II HSMC 3 1 0 4 4
 * MA3251 Statistics and Numerical Methods BSC 3 1 0 4 4
 * PH3256 Physics for Information Science BSC 3 0 0 3 3
 * BE3251 Basic Electrical and Electronics
