@@ -1,5 +1,5 @@
-# B TECH CSE
-## FIRST YEAR
-### SEMESTER 1
 
-* PRO LINKED KIST BY MIHIRA
+#BE CSE
+##1st Year
+###2nd sem
+-Probability and statistics
