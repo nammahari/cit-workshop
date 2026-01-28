@@ -2,18 +2,19 @@
 ## 2nd year
 ### 3rd sem
 
--Discrete Mathematics
--Digital Principles and
+- Discrete Mathematics
+- Digital Principles and
 Computer Organization
--Database Design and
+
+- Database Design and
 Management
--Design and Analysis of
+- Design and Analysis of
 Algorithms
--Artificial Intelligence
+- Artificial Intelligence
 Laboratory
--Database Design and
+- Database Design and
 Management
 Laboratory
--Data Exploration and
+- Data Exploration and
 Visualization 
--Artificial Intelligence
+- Artificial Intelligence
