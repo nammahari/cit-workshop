@@ -1,6 +1,6 @@
 # B.Tech CSE
 ## 1st year
-* 5th sem
+* # 5th sem
 
 * Computer Networks 
 * Compiler Design 
