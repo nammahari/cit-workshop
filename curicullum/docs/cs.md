@@ -1,3 +1,3 @@
-#B.Tech CSE
-##1st year
-*1 sem
+# B.Tech CSE
+## 1st year
+* 1 sem
